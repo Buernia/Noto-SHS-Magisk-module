@@ -1,0 +1,8 @@
+# This file will be read by resetprop
+# 示例: 更改 dpi
+# ro.sf.lcd_density=360
+# vendor.display.lcd_density=360
+# 此文件映射 /system/build.prop
+
+
+
