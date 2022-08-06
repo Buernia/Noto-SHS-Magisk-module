@@ -1,30 +1,28 @@
-# Magisk Module Template
+# Noto + 思源可变字体 Magisk 模块
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+将系统字体替换成谷歌 Noto 和思源系列字体的 Magisk 模块，支持多语言多字重。
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+适配 MIUI 13 （Android 12），无需空字体模块。
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+⚠️ **其他设备未经测试，请谨慎安装。因操作不当导致的系统错误或数据丢失与本项目无关。**
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+## 功能
 
----
-# **Module Name**
-## Description
-Description here
-## Changelog
-Changelog here
-## Requirements
-- Requirement 1
-- Requirement *
-- Requirement n
-## Instructions
-Instructions here
-- Or other instructions here
-- Followed by more instructions
-1. Or a list of instructions
-2. With more instructions
-## Links
-[Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-url-here "Module official XDA thread")
+* 将系统字体替换成 Noto 和思源系列字体，优先采用可变版本，同时支持衬线体和无衬线体。
+* 将等宽字体替换成 Noto Sans Mono，宽度调整为汉字的一半。
+* 将绘文字（emoji）字体替换为微软的 Segoe UI Emoji（作者个人喜好）。
+* 用遍黑体补全扩展汉字。
 
-[Latest stable Magisk](http://www.tiny.cc/latestmagisk)
+## 下载
+进入本项目的 [Releases 页面](https://github.com/Buernia/Noto-SHS-Magisk-module/releases)下载。
+
+## 作者
+
+作者：[奈白不弍](https://github.com/Buernia)
+
+项目地址：https://github.com/Buernia/Noto-SHS-Magisk-module
+
+## 相关链接
+
+* [Noto Fonts](https://github.com/notofonts)
+* [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)
