@@ -3252,9 +3252,21 @@
     </family>
 	<!-- 女书 -->
     <family lang="und-Nshu">
-        <font weight="300" style="normal">NotoTraditionalNushu-Light.ttf</font>
-		<font weight="400" style="normal">NotoTraditionalNushu-Regular.ttf</font>
-		<font weight="700" style="normal">NotoTraditionalNushu-Bold.ttf</font>
+        <font weight="300" style="normal">NotoTraditionalNushu-VF.ttf
+          <axis tag="wght" stylevalue="300" />
+        </font>
+        <font weight="400" style="normal">NotoTraditionalNushu-VF.ttf
+          <axis tag="wght" stylevalue="400" />
+        </font>
+        <font weight="500" style="normal">NotoTraditionalNushu-VF.ttf
+          <axis tag="wght" stylevalue="500" />
+        </font>
+        <font weight="600" style="normal">NotoTraditionalNushu-VF.ttf
+          <axis tag="wght" stylevalue="600" />
+        </font>
+        <font weight="700" style="normal">NotoTraditionalNushu-VF.ttf
+          <axis tag="wght" stylevalue="700" />
+        </font>
     </family>
 	<!-- 西夏 -->
     <family lang="und-Tang">
