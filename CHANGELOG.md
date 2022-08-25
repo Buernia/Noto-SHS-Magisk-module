@@ -1,5 +1,6 @@
-# 1.1.0版
+# 1.1.1版
 
-* 更新 Noto Sans Oriya（奥里亚文字）。
-* 将 Noto Traditional Nushu（女书）更改为可变版本。
+* 更新 Noto Sans Chakma（查克马文字）。
+* 更新 Noto Sans Buginese（布吉文字）。
+* 更新 Noto Sans Cherokee（切罗基文字）。
 
