@@ -1,8 +1,10 @@
-# 1.1.3版
+# 1.1.4版
 
-* 更新 Noto Sans Modi（莫迪文字）。
-* 更新 Noto Sans New Tai Lue（新傣仂文字）。
-* 更新 Noto Sans Tai Le（傣㐻文字）。
-* 更新 Noto Sans Tai Viet（傣越文字）。
-* 更新 Noto Sans Tangsa（通萨文字）。
-* 更新 Noto Sans Tifinagh（提非纳文字）。
+* 更新 Noto Sans Buginese（布吉文字）。
+* 更新 Noto Sans Caucasian Albanian（高加索阿尔巴尼亚文字）。
+* 更新 Noto Sans Lepcha（雷布查文字）。
+* 更新 Noto Sans Multani（木尔坦文字）。
+* 更新 Noto Sans Siddham（悉昙文字）。
+* 更新 Noto Sans Syloti Nagri（西洛蒂城体文字）。
+* 更新 Noto Sans Tai Tham（傣昙文字）。
+* 更新 Noto Serif Dogra（道格拉文字）。
