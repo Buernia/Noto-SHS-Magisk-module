@@ -3272,6 +3272,10 @@
     <family lang="und-Tang">
         <font weight="400" style="normal">NotoSerifTangut-Regular.ttf</font>
     </family>
+	<!-- 契丹小字 -->
+    <family lang="und-Kits">
+        <font weight="400" style="normal">NotoFangsongKSSVertical-Regular.ttf</font>
+    </family>
 	<!-- 维斯库奇 -->
     <family lang="und-Vith">
         <font weight="400" style="normal">NotoSansVithkuqi-VF.ttf
@@ -3322,6 +3326,7 @@
 	<!-- 迪普卢瓦耶 -->
     <family lang="und-Dupl">
         <font weight="400" style="normal">NotoSansDuployan-Regular.ttf</font>
+        <font weight="700" style="normal">NotoSansDuployan-Bold.ttf</font>
     </family>
 	<!-- 萨顿手语记号 -->
     <family lang="und-Sgnw">
