@@ -1,5 +1,3 @@
-# 1.2.0版
+# 1.2.1版
 
-* 新增 Noto Fangsong KSS Vertical（契丹小字）。
-* 更新 Noto Sans/Serif Balinese（巴厘文字）。
-* 更新 Noto Sans Duployan（迪普卢瓦耶记号）。
+* 将契丹小字字体更改为 Noto Serif Khitan Small Script。
