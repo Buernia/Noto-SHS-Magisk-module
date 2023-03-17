@@ -2,7 +2,9 @@
 
 将系统字体替换成谷歌 Noto 和思源系列字体的 Magisk 模块，支持多语言多字重。
 
-适配 MIUI 13 （Android 12），无需空字体模块。据其他用户测试，MIUI12.5 （Android 11）亦可用。
+适配 MIUI 13 （Android 12），无需空字体模块。
+
+据其他用户测试，[MIUI12.5](https://github.com/Buernia/Noto-SHS-Magisk-module/issues/1) （Android 11）和 [MIUI14](https://github.com/Buernia/Noto-SHS-Magisk-module/issues/7) 亦可用。
 
 ⚠️ **其他设备未经测试，请谨慎安装。因操作不当导致的系统错误或数据丢失与本项目无关。**
 
