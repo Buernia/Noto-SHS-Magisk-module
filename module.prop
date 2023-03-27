@@ -1,7 +1,7 @@
 id=Noto_SHS
 name=Noto + 思源可变字体
-version=1.2.3
-versionCode=11
+version=1.2.4
+versionCode=12
 author=奈白不弍
 description=谷歌 Noto + 思源系列可变字体，支持多语言多字重。适配 MIUI 13 （Android 12），无需空字体模块，其他设备请谨慎安装。项目地址：https://github.com/Buernia/Noto-SHS-Magisk-module
 updateJson=https://raw.githubusercontent.com/Buernia/Noto-SHS-Magisk-module/main/update.json

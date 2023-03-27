@@ -3499,6 +3499,9 @@
     </family>
 	<!-- 扩展汉字 -->
     <family>
-        <font weight="400" style="normal">Plangothic-Mob.ttf</font>
+        <font weight="400" style="normal">Bianhei B Regular.ttf</font>
+    </family>
+	<family>
+        <font weight="400" style="normal">Bianhei C Regular.ttf</font>
     </family>
 </familyset>
