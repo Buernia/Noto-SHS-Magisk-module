@@ -1536,31 +1536,31 @@
         </font>
     </family>
     <family lang="und-Telu" variant="compact">
-        <font weight="100" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="100" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="100" />
         </font>
-        <font weight="200" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="200" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="200" />
         </font>
-        <font weight="300" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="300" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="300" />
         </font>
-        <font weight="400" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="400" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="400" />
         </font>
-        <font weight="500" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="500" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="500" />
         </font>
-        <font weight="600" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="600" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="600" />
         </font>
-        <font weight="700" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="700" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="700" />
         </font>
-        <font weight="800" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="800" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="800" />
         </font>
-        <font weight="900" style="normal">NotoSansTelugu-VF.ttf
+        <font weight="900" style="normal">NotoSansTeluguUI-VF.ttf
           <axis tag="wght" stylevalue="900" />
         </font>
     </family>
@@ -1622,31 +1622,31 @@
         </font>
     </family>
     <family lang="und-Knda" variant="compact">
-        <font weight="100" style="normal">NotoSansKannada-VF.ttf
+        <font weight="100" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="100" />
         </font>
-        <font weight="200" style="normal">NotoSansKannada-VF.ttf
+        <font weight="200" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="200" />
         </font>
-        <font weight="300" style="normal">NotoSansKannada-VF.ttf
+        <font weight="300" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="300" />
         </font>
-        <font weight="400" style="normal">NotoSansKannada-VF.ttf
+        <font weight="400" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="400" />
         </font>
-        <font weight="500" style="normal">NotoSansKannada-VF.ttf
+        <font weight="500" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="500" />
         </font>
-        <font weight="600" style="normal">NotoSansKannada-VF.ttf
+        <font weight="600" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="600" />
         </font>
-        <font weight="700" style="normal">NotoSansKannada-VF.ttf
+        <font weight="700" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="700" />
         </font>
-        <font weight="800" style="normal">NotoSansKannada-VF.ttf
+        <font weight="800" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="800" />
         </font>
-        <font weight="900" style="normal">NotoSansKannada-VF.ttf
+        <font weight="900" style="normal">NotoSansKannadaUI-VF.ttf
           <axis tag="wght" stylevalue="900" />
         </font>
     </family>
