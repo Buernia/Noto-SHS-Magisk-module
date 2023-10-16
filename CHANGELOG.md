@@ -1,5 +1,4 @@
-# 1.3.2版
+# 1.3.3版
 
-* 更新 Bianhei B/C（扩展汉字）。
-* 更新 Noto Sans Lao Looped（老挝文字）。
-* 更新 Noto Sans Thai Looped （泰文字）。
+* 更新 Noto Sans/Naskh Arabic（阿拉伯文字）。
+* 更新 Noto Sans Symbols 2 （符号）。
