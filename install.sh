@@ -60,7 +60,6 @@ print_modname() {
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/fonts
 "
 #添加您要精简的APP/文件夹目录
 #例如：精简状态栏，找到状态栏目录为  /system/priv-app/SystemUI/SystemUI.apk     
